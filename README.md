@@ -1,3 +1,2 @@
-# mongodb-kube
-deploy standalone mongodb instance with ansible
-## EXAMPLE ##
+# mongodb-k8s-deployment
+Example how to to deploy standalone mongodb to k8s, using ansible.
